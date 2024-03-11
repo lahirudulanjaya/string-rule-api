@@ -60,7 +60,7 @@ GET /v2/reply/22-kbzw9ru
 
 ## Testing
 
-To run unit tests, use:
+To run unit tests, use:-
 
 ./gradlew test
 
